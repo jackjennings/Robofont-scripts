@@ -33,5 +33,10 @@
 	<real>1431035758.513617</real>
 	<key>version</key>
 	<string>0.6</string>
+	<key>com.robofontmechanic.Mechanic</key>
+	<dict>
+		<key>repository</key>
+		<string>loicsander/Robofont-scripts</string>
+	</dict>
 </dict>
 </plist>
